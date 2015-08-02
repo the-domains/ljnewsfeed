@@ -21,8 +21,8 @@ color:
     - '#91847b'
     - '#7f5c35'
   brandStrength: 0.875
-  lightness: 0.5
-  saturation: 0.5
+  lightness: 0.4375
+  saturation: 0.9375
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
