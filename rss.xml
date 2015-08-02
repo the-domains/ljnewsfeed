@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[LJNewsFeed]]></title>
         <description><![CDATA[LJNewsFeed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ljnewsfeed/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 02 Aug 2015 21:56:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 02 Aug 2015 21:56:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ljnewsfeed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Catching up with world-class Kiwis: Linda Jenkinson - Business - NZ Herald News]]></title>
+            <description><![CDATA[<article><h1>Catching up with world-class Kiwis: Linda Jenkinson - Business - NZ Herald News</h1><p>Linda Jenkinson is a serial entrepreneur, global citizen, sportswoman and an aspiring social entrepreneur who is committed to making the world a better place. - New Zealand Herald</p><img src="http://media.nzherald.co.nz/webcontent/image/jpg/20131/SCCZEN_191212SPLLINDA_1024x768.jpg"></article>]]></description>
+            <link>http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;objectid=10856925</link>
+            <guid isPermaLink="false">7b906d7c-55a2-45b0-8bcf-a8d143da81b8</guid>
+            <pubDate>Sun, 02 Aug 2015 21:56:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Xero TV - Linda Jenkinson - The importance of values - Xerocon Auckland 2015]]></title>
             <description><![CDATA[<article><h1>Xero TV - Linda Jenkinson - The importance of values - Xerocon Auckland 2015</h1><p>Linda Jenkinson talks about the power of values in an organisation, and the importance of being explicit about values for the benefit of both customers and staff.</p><img src="https://www.xero.com/media/742876/xerotv-opengraph.png"></article>]]></description>
