@@ -1,6 +1,7 @@
 name: LJNewsFeed
 favicon: null
 layout_spectrum: 0.51772
+typography_spectrum: 0.93844
 cta:
   domain: null
   bucket: null
