@@ -24,7 +24,7 @@ isBasedOnUrl: 'http://www.nbr.co.nz/article/air-nz-appoints-lesconcierges-co-fou
 title: Air NZ appoints LesConcierges co-founder Linda Jenkinson to the board
 datePublished: '2015-08-03T01:43:28.300Z'
 starred: false
-dateModified: '2015-08-03T01:43:28.300Z'
+dateModified: '2015-08-03T01:43:45.847Z'
 sourcePath: _posts/2015-08-03-air-nz-appoints-lesconcierges-co-founder-linda-jenkinson-to.md
 published: true
 _context: 'http://schema.org'
