@@ -33,7 +33,7 @@ app_links: []
 isBasedOnUrl: 'http://www.massivemagazine.org.nz/blog/3934/the-power-of-one-kiwi/'
 title: THE POWER OF ONE KIWI
 datePublished: '2015-08-03T01:44:09.774Z'
-dateModified: '2015-08-03T01:44:09.774Z'
+dateModified: '2015-08-03T04:09:55.287Z'
 sourcePath: _posts/2015-08-03-the-power-of-one-kiwi.md
 published: true
 _context: 'http://schema.org'
