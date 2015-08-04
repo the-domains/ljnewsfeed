@@ -21,11 +21,11 @@ color:
     - '#0e6579'
     - '#91847b'
     - '#7f5c35'
-  brandStrength: 0.875
+  brandStrength: 0.5625
   lightness: 0.25
   saturation: 0.9375
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
-    item: 'null'
+    item: f9f9ab00-2417-4cb1-b19d-80f9851c24a1
     url: null
