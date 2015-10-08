@@ -1,7 +1,8 @@
-name: LJNewsFeed
-favicon: null
 layout_spectrum: 0.312766
-typography_spectrum: 0.93844
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - filter:
       notType:
@@ -26,30 +27,29 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#0b0b0d'
-    - '#4d4c52'
-    - '#feffff'
-    - '#c38d5e'
-    - '#b95218'
-  brandStrength: 1
-  lightness: 0.6914893
-  saturation: 0.125
-  rhythmicContrast: 1
 purpose:
   - name: awareness
     url: null
     item: d02277ca-5e07-4516-aa07-f9c5090c53cc
+color:
+  saturation: 0.125
+  lightness: 0.187234
+  brandStrength: 1
+  brandColors:
+    - '#F2EFE9'
+    - '#1F1E21'
+    - '#FF7F42'
+    - '#6E655C'
+    - '#C6071E'
+  rhythmicContrast: 0.4595745
+typography_spectrum: 0.93844
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: LJNewsFeed
