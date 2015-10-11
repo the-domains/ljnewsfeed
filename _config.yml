@@ -1,4 +1,8 @@
-layout_spectrum: 0.312766
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -33,23 +37,19 @@ purpose:
     item: d02277ca-5e07-4516-aa07-f9c5090c53cc
 color:
   saturation: 0.125
-  lightness: 0.187234
   brandStrength: 1
+  rhythmicContrast: 0.4595745
   brandColors:
     - '#F2EFE9'
     - '#1F1E21'
     - '#FF7F42'
     - '#6E655C'
     - '#C6071E'
-  rhythmicContrast: 0.4595745
+  lightness: 0.187234
 typography_spectrum: 0.93844
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.7276596
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: LJNewsFeed
