@@ -26,6 +26,7 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
+title: hoohaha
 cta:
   domain: null
   bucket: null
